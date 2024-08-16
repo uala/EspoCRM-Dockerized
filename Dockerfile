@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM docker.twtools.io/docker_io/library/ubuntu:18.04
 
 LABEL maintainer Luca Mattivi <luca@smartdomotik.com>
 
